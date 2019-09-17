@@ -1,0 +1,17 @@
+{
+  "name": "feeshu1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/classes/kotlin/main/feeshu.js",
+  "scripts": {
+    "start": "./gradlew assemble && functions-framework --target=feeshu",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.2.1",
+    "jsdom": "^15.1.1",
+    "kotlin": "^1.3.50",
+    "node-fetch": "^2.6.0"
+  }
+}
