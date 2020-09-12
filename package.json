@@ -12,6 +12,6 @@
     "@google-cloud/functions-framework": "^1.2.1",
     "jsdom": "^15.1.1",
     "kotlin": "^1.3.50",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
